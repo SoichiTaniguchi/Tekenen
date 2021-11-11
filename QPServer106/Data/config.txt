@@ -1,0 +1,24 @@
+[Port]                55555
+[MaxCameraNum]        4
+[CameraSelected]      0
+[ImageSizeList]       320 240
+[ImageSizeList]       640 480
+[ImageSizeList]       800 600
+[ImageSizeList]       960 720
+[ImageSizeList]       1280 960
+[ImageSizeSelected]   1
+[FPS]                 15
+[FPS]                 30
+[FPSSelected]         1
+[DataFlow]            0
+[CheckName]           1
+[CheckPos2d]          0
+[CheckDvec]           0
+[CheckPos3d]          1
+[CheckCf]             0
+[CheckArea]           0
+[CheckVertex]         0
+[CheckGLmatrix]       0
+[CheckPreview]        1
+[CheckAutoStart]      0
+[DefaultPatternWidth] 40
