@@ -1,0 +1,29 @@
+﻿2020/01/09 23:03:59 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\admin\Desktop\E創成2\GLUT\GLUT\GLUT.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\admin\Desktop\E創成2\GLUT\packages\glm.0.9.9.600\build\native\include/" /I"C:\Users\admin\Desktop\E創成2\GLUT\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D HAS_GLM /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GLUT.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt arduino.cpp
+         arduino.cpp
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.h(24): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.h(23): warning C4101: 'dwErrorMask' : ローカル変数は 1 度も使われていません。
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.h(30): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.h(29): warning C4101: 'dwErrorMask' : ローカル変数は 1 度も使われていません。
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.h(36): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.h(35): warning C4101: 'dwErrorMask' : ローカル変数は 1 度も使われていません。
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.cpp(25): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.cpp(32): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.cpp(48): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.cpp(62): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.cpp(61): warning C4101: 'dwErrorMask' : ローカル変数は 1 度も使われていません。
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.cpp(69): warning C4800: 'BOOL' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>c:\users\admin\desktop\e創成2\glut\glut\arduino.cpp(68): warning C4101: 'dwErrorMask' : ローカル変数は 1 度も使われていません。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Desktop\E創成2\GLUT\Debug\GLUT.exe" /INCREMENTAL /NOLOGO "C:\Users\admin\Desktop\E創成2\GLUT\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib" "C:\Users\admin\Desktop\E創成2\GLUT\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib" "C:\Users\admin\Desktop\E創成2\GLUT\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Desktop\E創成2\GLUT\Debug\GLUT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Desktop\E創成2\GLUT\Debug\GLUT.lib" /MACHINE:X86 Debug\arduino.obj
+         Debug\GLUT.obj
+         Debug\socket_client.obj
+         Debug\stdafx.obj
+         GLUT.vcxproj -> C:\Users\admin\Desktop\E創成2\GLUT\Debug\GLUT.exe
+     1>プロジェクト "C:\Users\admin\Desktop\E創成2\GLUT\GLUT\GLUT.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:13.45
